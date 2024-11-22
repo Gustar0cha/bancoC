@@ -1,4 +1,7 @@
-### **README para o Projeto: Gerenciamento de Banco**
+
+---
+
+### **Gerenciamento de Banco**
 
 ```markdown
 # Gerenciamento de Banco 🏦
@@ -17,4 +20,5 @@ Este projeto é uma simulação simples de um sistema bancário, desenvolvido em
 - Linguagem C
 - Variáveis de ponto flutuante
 - Controle de fluxo (if, else, switch-case)
+
 
